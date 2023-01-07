@@ -109,7 +109,7 @@ items_to_consider: This parameter allows you to specify a list of items that wil
 
 ## Visualising Rules
 HeatMap was plotted to visualise the intensity of support between antecendent and consequent. To perform this, a pivot table was created with  
-consequents as columns and index with antencendents. It was observed there was strong association 
+consequents as columns and index with antencendents. It was observed there was strong association between: 
 1. other vegetable <-- whole milk
 2. rolls/buns <-- whole milk 
 Also, scatter plot was plotted to see min and max values for support, lift and relation between them. 
