@@ -61,7 +61,7 @@ was used to evaluate the quality of the clusters produced by k-means clustering.
 It works by calculating a silhouette score for each data point within a cluster, which is a measure of how 
 similar the data point is to other data points within the same cluster compared to data points in other clusters.
 The silhouette score ranges from -1 to 1, with higher values indicating a better fit within the cluster.
-Details can be found in this [notebook.]
+Details can be found in this [notebook.](https://github.com/iqrabismii/Machine-Learning-Projects/blob/main/Item_Recommendation/RFM_and_Customer_Segmentation%20.ipynb)
 Silhouette Score was good when number of cluster was set 3. Hence, customers were segmented in three clusters. Lastly, scatter plot was drawn to 
 visualise cluster wrt to recency, frequency and monetary. 
 
