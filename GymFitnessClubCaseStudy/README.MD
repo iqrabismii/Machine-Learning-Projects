@@ -12,7 +12,9 @@
 
 
 ## Introduction
-This is DataCamp Case Study. Detail about this case study and steps taken to implement machine learning  is given below
+This is a DataCamp Case Study. Detail about this case study and steps taken to implement machine learning  is given below. Link for DataCamp workspace can
+be found [here.](https://app.datacamp.com/workspace/w/30507c3b-7079-44e8-9481-676a3631ae16/edit?file=notebook.ipynb)
+
 #### Company Background
 GoalZone is a fitness club chain providing five types of fitness classes in Canada.
 Finally, the fitness classes schedule is back to normal after the COVID-19 restrictions are lifted.
@@ -69,3 +71,4 @@ Hence, after implementing various models I have decided to select ridge regressi
 2. By using ridge with best parameters and cross validation score,accuracy got increased to 77%.
 3. hence, with this model the values can be predicted by the model approximately 77% and these values can help the concerned department to increase the capacity of the gym whenever low attendance is predicted. 
 4. Also, as the rmse is a bit high in this model,so the better approach would be to define a threshold ie if the attendance is near or below that threshold then the office should increase the capacity so that more people can register. as the threshold is not given in the instructions manual. So, I have implemented threshold when the attendance is less than class capacity ie. below 12 then it should be consider low. This threshold can be modified after discussing with the gym people.
+Further details about this cases study can be found here in the [notebook](https://github.com/iqrabismii/Machine-Learning-Projects/blob/main/GymFitnessClubCaseStudy/MLModels.ipynb).
