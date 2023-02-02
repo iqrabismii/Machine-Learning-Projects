@@ -107,7 +107,7 @@ and used to make predictions. This approach of using SARIMA models is
 useful in handling time-series data with trends and seasonality, and helps in achieving better predictions compared to other models.
 
 
-## Prediction
+## Prediction using Ridge Model
 
 In order to make accurate predictions for the stock prices, 
 various features were created using the past values of the stock 
